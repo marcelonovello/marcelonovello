@@ -1,11 +1,8 @@
 import SocialNetworkContainer from "./SocialNetworkContainer";
 import InformationContainer from "./InformationContainer";
-
-<<<<<<< HEAD
 import Avatar from "../img/eu.jpeg";
-=======
 import Avatar from "../img/computer.webp";
->>>>>>> 915ad84f5fea1f46e082871782daf593d8f7c828
+
 
 import "../styles/components/sidebar.sass";
 
