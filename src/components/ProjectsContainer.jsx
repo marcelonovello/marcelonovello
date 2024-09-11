@@ -33,7 +33,6 @@ const ProjectsContainer = () => {
           </div>
         ))}
       </div>
-      <br/>
       <a href="https://github.com/marcelonovello" className="btn">
         Ver mais no GitHub
       </a>
