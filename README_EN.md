@@ -1,5 +1,4 @@
-
-  [🇺🇸 English](./README_EN.md) | [🇧🇷 Português](./README_PT.md)
+[🇺🇸 English](./README_EN.md) | [🇧🇷 Português](./README.md)
 
 <h1 align="right">Hey👋 What's Up?</h1>
 
@@ -27,16 +26,14 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-api-coding-and-development-flat-flat-juicy-fish.png" height="60" alt="rest api logo" />
   <img width="12" />
-  
+ 
 ###
 
 <div align="center">
@@ -63,4 +60,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelonovello/marcelonovello/output/pacman-contribution-graph.svg">
   <img class="w-full" alt="Pac-Man eating GitHub contributions" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
 
-</picture>
+</picture></div>
+
+## 📂 Projects:
+
+- [webmoderno-javascript-fstack](https://github.com/marcelonovello/webmoderno-javascript-fstack): Full-stack registration system with React, Node.js, and MySQL.
+- [pokemon-app-angular](https://github.com/marcelonovello/pokemon-app-angular): Application using Angular and TypeScript consuming an external API.
+- [Micro-Frontends-Application](https://github.com/marcelonovello/Micro-Frontends-Application): Integration of multiple SPAs using a microfrontend architecture.
+- [AngularProject_SPA](https://github.com/marcelonovello/AngularProject_SPA): Angular SPA with modular routes and components.
+
+
