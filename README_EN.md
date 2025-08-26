@@ -1,53 +1,66 @@
-# Prazer, eu sou o Marcelo!
 
-🎓 **Desenvolvedor Full Stack** focado em:  
-- 🚀 APIs escaláveis  
-- 🤖 Automações inteligentes  
-- ✨ Código limpo e performance  
+  [🇺🇸 English](./README_EN.md) | [🇧🇷 Português](./README_PT.md)
 
-# 🛠️ Stack
+<h1 align="right">Hey👋 What's Up?</h1>
 
-### 🔡 Linguagens:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+###
 
-### ⚙️ Frameworks & Bibliotecas:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<div align="center">
 
-### 🗃️ Bancos de Dados:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-api-coding-and-development-flat-flat-juicy-fish.png" height="60" alt="rest api logo" />
+  <img width="12" />
+  
+###
 
-### 🛠️ Ferramentas & DevOps:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+<a href="https://linkedin.com/in/marcelonovello" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
 
-### 🌐 Outros:
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<a href="mailto:mardevfstack@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
 
-## 📂 Projetos:
+</div>
 
-- [webmoderno-javascript-fstack](https://github.com/marcelonovello/webmoderno-javascript-fstack): Sistema de cadastro full stack com React, Node.js e MySQL.
-- [pokemon-app-angular](https://github.com/marcelonovello/pokemon-app-angular): Aplicação com Angular e TypeScript consumindo API externa.
-- [Micro-Frontends-Application](https://github.com/marcelonovello/Micro-Frontends-Application): Integração de múltiplas SPAs com arquitetura microfrontend.
-- [AngularProject_SPA](https://github.com/marcelonovello/AngularProject_SPA): SPA Angular com rotas e componentes modulares.
+###
 
----
-### 📫 Contato:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelonovello)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mardevfstack@gmail.com)
-<br>📍 Rio de Janeiro, Brasil.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marcelonovello&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </div>
 
----
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelonovello/marcelonovello/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelonovello/marcelonovello/output/pacman-contribution-graph.svg">
+  <img class="w-full" alt="Pac-Man eating GitHub contributions" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+
+</picture>
