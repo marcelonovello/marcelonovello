@@ -31,8 +31,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-  <img width="12" />
+  
   
 ###
 
