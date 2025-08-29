@@ -61,11 +61,12 @@
   
 </picture></div>
 
+<div align="left">
+  
 ## 📂 Projects:
 
 - [webmoderno-javascript-fstack](https://github.com/marcelonovello/webmoderno-javascript-fstack): Full-stack registration system with React, Node.js, and MySQL.
 - [pokemon-app-angular](https://github.com/marcelonovello/pokemon-app-angular): Application using Angular and TypeScript consuming an external API.
 - [Micro-Frontends-Application](https://github.com/marcelonovello/Micro-Frontends-Application): Integration of multiple SPAs using a microfrontend architecture.
-- [AngularProject_SPA](https://github.com/marcelonovello/AngularProject_SPA): Angular SPA with modular routes and components.
-
-
+- [ClearInbox](https://github.com/marcelonovello/clearInbox): It is a productivity tool developed in Python for automated organization and cleaning of email inboxes.
+</div>
