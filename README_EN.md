@@ -67,6 +67,6 @@
 
 - [🚀 System Register](https://github.com/marcelonovello/sistema-cadastro): Full-stack registration system with React, Node.js, and MySQL.
 - [🎮 Pokemon App](https://github.com/marcelonovello/pokemon-app-angular): Application using Angular and TypeScript consuming an external API.
-- [🧩 Micro Frontends Application](https://github.com/marcelonovello/Micro-Frontends-Application): Integration of multiple SPAs using a microfrontend architecture.
+- [🧩 YouTube Data Connector](https://github.com/marcelonovello/Micro-Frontends-Application): Integration of multiple SPAs using a microfrontend architecture.
 - [📬 Clear Inbox](https://github.com/marcelonovello/clearInbox): Productivity tool in Python for automated email organization.
 
