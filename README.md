@@ -56,8 +56,8 @@
   
 ## 📂 Projetos:
 
-- [sistema-cadastro](https://github.com/marcelonovello/sistema-cadastro): Sistema de cadastro full stack com React, Node.js e MySQL.
-- [pokemon-app-angular](https://github.com/marcelonovello/pokemon-app-angular): Aplicação com Angular e TypeScript consumindo API externa.
-- [Micro-Frontends-Application](https://github.com/marcelonovello/Micro-Frontends-Application): Integração de múltiplas SPAs com arquitetura microfrontend.
-- [ClearInbox](https://github.com/marcelonovello/clearInbox): É uma ferramenta de produtividade desenvolvida em Python para organização e limpeza automatizada de caixas de email.
+- [🚀 Sistema Cadastro](https://github.com/marcelonovello/sistema-cadastro): Sistema de cadastro full stack com React, Node.js e MySQL.
+- [🎮 Pokémon App](https://github.com/marcelonovello/pokemon-app-angular): Aplicação com Angular e TypeScript consumindo API externa.
+- [🧩 YouTube Data Connector](https://github.com/marcelonovello/Micro-Frontends-Application): Integração de múltiplas SPAs com arquitetura microfrontend.
+- [📬 ClearInbox](https://github.com/marcelonovello/clearInbox): É uma ferramenta de produtividade desenvolvida em Python para organização e limpeza automatizada de caixas de email.
 </div>
