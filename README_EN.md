@@ -65,7 +65,7 @@
   
 ## 📂 Projects:
 
-- [📊 Pokemon App](https://github.com/marcelonovello/pokemon-app-angular): Application using Angular and TypeScript consuming an external API.
+- [📊 Pokemon App](https://github.com/marcelonovello/Pokemon-API): Application using Angular and TypeScript consuming an external API.
 - [🧩 YouTube Data Connector](https://github.com/marcelonovello/Micro-Frontends-Application): Integration of multiple SPAs using a microfrontend architecture.
 - [📬 Clear Inbox](https://github.com/marcelonovello/clearInbox): Productivity tool in Python for automated email organization.
 
