@@ -25,9 +25,12 @@
 
 
 ## Projetos 📂
-- [Pokémon App 📊](https://github.com/marcelonovello/Pokemon-API) – Aplicação com Angular e TypeScript consumindo API externa.  
-- [YouTube Data Connector 🧩](https://github.com/marcelonovello/Micro-Frontends-Application) – Integração de múltiplas SPAs com arquitetura microfrontend.  
-- [Clear Inbox 📬](https://github.com/marcelonovello/clearInbox) – Ferramenta em Python para organização e limpeza automatizada de caixas de email.
+- [AgentsIA 🤖](https://github.com/marcelonovello/AgentsIA) – Projeto de chatbot com inteligência artificial, integrando modelos de linguagem para atendimento automatizado.  
+- [SDW2023 ETL 🔄](https://github.com/marcelonovello/sdw2023-etl) – Pipeline ETL para processamento, transformação e carga de dados em ambientes de análise.
+- [YouTube Data Connector 🧩](https://github.com/marcelonovello/YouTube-Data-Connector) – Integração de múltiplas SPAs com arquitetura microfrontend.  
+- [Smart Mail Processor 📬](https://github.com/marcelonovello/Smart-Mail-Processor) – Ferramenta em Python para organização e limpeza automatizada de caixas de email.
+
+🔗 Veja todos os meus projetos no GitHub - [Repositórios](https://github.com/marcelonovello?tab=repositories)
 
 ---
 
