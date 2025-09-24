@@ -1,6 +1,10 @@
 [🇺🇸 English](./README_EN.md) | [🇧🇷 Português](./README.md)
 
-<h1 align="center">Desenvolvedor Full Stack | Marcelo Novello 👋</h1>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Calibri&color=1E90FF&lines=SEJA%20BEM-VINDO%20AO%20MEU%20REPOSIT%C3%93RIO" alt="Typing SVG" style="max-width: 100%;">
+</h1>
 <div align="center">
 </div>
 <div align="center">
@@ -19,18 +23,22 @@
 
 <br><br><br>
 
+# Estatísticas do GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" style="max-width: 100%; height: auto; max-height: 25px;"> 
+
 <div align="center">
+    
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=marcelonovello&theme=dark&hide_border=true" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonovello&layout=compact&exclude_repo=repo1,repo2&theme=dark" height="150" alt="most common lang" />
 </div>
 
 
-## Projetos 📂
+
+# Projetos 📂
 - [AgentsIA 🤖](https://github.com/marcelonovello/AgentsIA) – Projeto de chatbot com inteligência artificial, integrando modelos de linguagem para atendimento automatizado.  
 - [SDW2023 ETL 🔄](https://github.com/marcelonovello/sdw2023-etl) – Pipeline ETL para processamento, transformação e carga de dados em ambientes de análise.
 - [YouTube Data Connector 🧩](https://github.com/marcelonovello/YouTube-Data-Connector) – Integração de múltiplas SPAs com arquitetura microfrontend.  
 - [Smart Mail Processor 📬](https://github.com/marcelonovello/Smart-Mail-Processor) – Ferramenta em Python para organização e limpeza automatizada de caixas de email.
 
-🔗 Veja todos os meus projetos no GitHub - [Repositórios](https://github.com/marcelonovello?tab=repositories)
 
 ---
 
