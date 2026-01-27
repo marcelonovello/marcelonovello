@@ -2,9 +2,7 @@
 
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Calibri&color=1E90FF&lines=SEJA%20BEM-VINDO%20AO%20MEU%20REPOSIT%C3%93RIO" alt="Typing SVG" style="max-width: 100%;">
-</h1>
+
 <div align="center">
 </div>
 <div align="center">
