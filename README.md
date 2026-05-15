@@ -1,3 +1,5 @@
+[🇺🇸 English](./README_EN.md) | [🇧🇷 Português](./README.md)
+
 <br><br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
